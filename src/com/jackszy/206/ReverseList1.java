@@ -16,11 +16,7 @@ import com.jackszy.ListNode;
  */
 public class ReverseList1 {
     public static void main(String[] args) {
-        ListNode head = new ListNode(1);
-        ListNode second = new ListNode(2);;
-        ListNode third = new ListNode(3);
-        head.next = second;
-        second.next = third;
+        ListNode head = ListNode.buildList();
 
         System.out.println("原链表为");
         printList(head);
