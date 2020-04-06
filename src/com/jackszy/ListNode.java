@@ -23,6 +23,7 @@ public class ListNode {
         head.next = second;
         second.next = third;
         third.next = new ListNode(4);
+        third.next.next = new ListNode(5);
         return head;
     }
 }
