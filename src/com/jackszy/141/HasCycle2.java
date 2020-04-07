@@ -1,6 +1,5 @@
 import java.util.HashSet;
 import java.util.Set;
-import com.jackszy.ListNode;
 
 public class HasCycle2 {
     /**

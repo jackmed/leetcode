@@ -1,5 +1,3 @@
-import com.jackszy.ListNode;
-
 public class ReverseList2 {
     //迭代实现
     public ListNode reverseList(ListNode head) {

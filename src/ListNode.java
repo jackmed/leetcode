@@ -1,5 +1,3 @@
-package com.jackszy;
-
 public class ListNode {
     public int val;
     public ListNode next;

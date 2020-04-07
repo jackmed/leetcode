@@ -1,5 +1,3 @@
-
-import com.jackszy.ListNode;
 public class DetectCycle2 {
 
     //Floyd 算法 ，快慢指针算法。

@@ -1,5 +1,3 @@
-import com.jackszy.ListNode;
-
 /**
  * 反转一个单链表。
  *

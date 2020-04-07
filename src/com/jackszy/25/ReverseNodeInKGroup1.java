@@ -1,5 +1,3 @@
-import com.jackszy.ListNode;
-
 /**
  *     作者：reals
  *     链接：https://leetcode-cn.com/problems/reverse-nodes-in-k-group/solution/tu-jie-kge-yi-zu-fan-zhuan-lian-biao-by-user7208t/

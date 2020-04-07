@@ -1,9 +1,7 @@
-import com.jackszy.ListNode;
-
 public class SwapPairNode2 {
 
     //迭代实现,需要记录第一个节点的前驱节点
-    public static com.jackszy.ListNode swapPairs(com.jackszy.ListNode head) {
+    public static ListNode swapPairs(ListNode head) {
         if (head == null || head.next == null)
             return head;
 

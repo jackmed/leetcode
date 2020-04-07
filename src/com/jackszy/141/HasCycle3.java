@@ -1,5 +1,3 @@
-import com.jackszy.ListNode;
-
 public class HasCycle3 {
     /**
      * 快慢指针解法
